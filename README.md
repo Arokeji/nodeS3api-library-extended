@@ -1,3 +1,3 @@
-# node-simple-template
+# Library API CRUD
 
-Hola este es el repo de template
+Full API library
